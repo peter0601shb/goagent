@@ -1,1 +1,2 @@
-@"%~dp0..\local\python27.exe" "%~dpn0.py" && exit /b 0 || (pause && exit /b -1)
+peter0601shb,shihongbo..00
+
